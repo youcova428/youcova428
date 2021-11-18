@@ -61,6 +61,7 @@ class _TableRangeExampleState extends State<TableRangeExample> {
         onPageChanged: (focusedDay) {
           _focusedDay = focusedDay;
         },
+
       ),
     );
   }
